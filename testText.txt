@@ -1,2 +1,3 @@
 text from web
 text from PC, cloned repo
+after remove origin from cloned repo, test
