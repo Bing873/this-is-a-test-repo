@@ -1,3 +1,18 @@
+git reset
+git revert #重新commit
+
 git rebase 【to】
 git rebase -i 
+  rebase vs. merge
 git cherry-pick commitID
+
+git tag v1 C1
+git describe
+
+git pull/fetch
+
+pull=fetch+merge
+
+git reset o/master 
+git checkout -b feature C2
+git push origin feature
